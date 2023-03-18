@@ -1,3 +1,7 @@
-# Switchomatic
+# Test
 
-Switchomatic is able to turn off electrical appliances when no one is in a room after a period of time set by user.
+This is a test.
+
+## Subheader
+
+This is a test.
